@@ -1,0 +1,27 @@
+.header {
+  background-color: whitesmoke;
+  padding: 10px;
+}
+.navbar {
+  margin-top: 0px;
+  text-align: right;
+}
+.nav-list {
+  list-style: none;
+  padding: 0px;
+  margin: 0 px;
+  display: inline-flex;
+}
+.nav-item {
+  margin-right: 15px;
+  margin-top: 0px;
+}
+.nav-item a {
+  color: #ffffff;
+  text-decoration: none;
+  color: black;
+}
+
+.nav-item a:hover {
+  text-decoration: underline;
+}
